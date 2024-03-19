@@ -1,7 +1,5 @@
 import java.util.*;
 
-
-
 public class Find_BinomialCoeficient {
 
     public static int findFactorial(int num){
